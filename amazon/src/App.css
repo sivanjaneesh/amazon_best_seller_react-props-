@@ -1,0 +1,45 @@
+
+
+.heading{
+  text-align: center;
+}
+.column {
+  float: left;
+  padding: 10px;
+  height: 500px; 
+  width:500px;
+  
+  border: 1px solid grey;
+}
+
+
+.row {
+  
+  display: table;
+  clear: both;
+  
+  
+  
+} 
+
+.title{
+
+color: #007185;
+font-weight: bold;
+
+}
+.author{
+
+color: #007185;
+font-weight: lighter;
+
+
+}
+
+.img{
+  text-align: center;
+}
+
+
+
+

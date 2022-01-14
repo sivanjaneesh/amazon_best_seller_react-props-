@@ -1,0 +1,113 @@
+[
+    {
+        "id":1,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/71g2ednj0JL._AC_UL604_SR604,400_.jpg",
+        "title":"The Psychology of Money",
+        "author":"Morgan Housel"
+
+    },
+    
+    {
+        "id":2,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/91bYsX41DVL._AC_UL604_SR604,400_.jpg",
+        "title":"Atomic Habits: The life-changing million copy",
+        "author":"James Clear"
+
+    }
+    ,
+    {
+        "id":3,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/41+grDTP2FL._AC_UL604_SR604,400_.jpg",
+        "title":"DO EPIC SHIT",
+        "author":"Ankur Warikoo"
+
+    }
+    ,
+    {
+        "id":4,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/81l3rZK4lnL._AC_UL604_SR604,400_.jpg",
+        "title":"Ikigai: The Japanese secret to a long and happy",
+        "author":"Héctor García"
+
+    }
+    ,
+    {
+        "id":5,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/818e+fq7+BL._AC_UL604_SR604,400_.jpg",
+        "title":"Word Power Made Easy",
+        "author":"Norman Lewis"
+
+    }
+    ,
+    {
+        "id":6,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/711c-uf6AFL._AC_UL604_SR604,400_.jpg",
+        "title":"My First Library: Boxset of 10 Board Books",
+        "author":"Wonder House Books"
+
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/81bsw6fnUiL._AC_UL604_SR604,400_.jpg",
+        "title":"Rich Dad Poor Dad:",
+        "author":"obert T. Kiyosaki"
+
+    }
+    ,
+    {
+        "id":8,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/81N7FmJhbhL._AC_UL604_SR604,400_.jpg",
+        "title":"Life's Amazing Secrets: How to Find Balance",
+        "author":"Gaur Gopal Das"
+
+    }
+    ,
+    {
+        "id":9,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/81jv44QdNwL._AC_UL604_SR604,400_.jpg",
+        "title":"Grandma's Bag of Stories: Collection of 20+-",
+        "author":"Sudha Murty"
+
+    }
+    ,
+    {
+        "id":10,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/814jC+rODgL._AC_UL604_SR604,400_.jpg",
+        "title":"Counterintuitive Approach to Living a Good",
+        "author":"Mark Manson"
+
+    }
+    ,
+    {
+        "id":11,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/71sBtM3Yi5L._AC_UL604_SR604,400_.jpg",
+        "title":"The Power of Your Subconscious Mind",
+        "author":"oseph Murphy"
+
+    }
+    ,
+    {
+        "id":12,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/81s0B6NYXML._AC_UL604_SR604,400_.jpg",
+        "title":"It Ends With Us: A Novel",
+        "author":"Colleen Hoover"
+
+    }
+    ,
+    {
+        "id":13,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/61fp0RQR+9L._AC_UL604_SR604,400_.jpg",
+        "title":"The Almanack Of Naval Ravikant: A Guide to",
+        "author":"Eric Jorgenson"
+
+    },
+    {
+        "id":14,
+        "img":"https://images-eu.ssl-images-amazon.com/images/I/81hfjCi2IXL._AC_UL604_SR604,400_.jpg",
+        "title":"Write Me A Love Story",
+        "author":"Ravinder Singh"
+
+    }
+    
+]
